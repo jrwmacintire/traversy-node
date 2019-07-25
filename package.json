@@ -1,0 +1,24 @@
+{
+  "name": "traversy-node",
+  "version": "1.0.0",
+  "description": "Traversy Media NodeJS tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrwmacintire/traversy-node.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "traversy"
+  ],
+  "author": "John MacIntire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrwmacintire/traversy-node/issues"
+  },
+  "homepage": "https://github.com/jrwmacintire/traversy-node#readme"
+}
